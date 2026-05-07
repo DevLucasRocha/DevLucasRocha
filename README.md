@@ -20,6 +20,7 @@
 - ⚙️ Automação de infraestrutura e servidores com **Terraform, Ansible e Linux**
 - 🚀 Desenvolvimento Full Stack de alta performance utilizando **Golang, React e Node.js**
 - 🛡️ Implementação de monitoramento e visibilidade com **Zabbix e Uptime Kuma**
+- 📍São Luís - MA
 
 ---
 
@@ -64,6 +65,9 @@
 ## 🏆 Certificação em Destaque
 
 - ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- ✅ **OCI Multicloud Architect Associate**
+- ✅ **OCI Generative AI Professional**
 
 ---
 
