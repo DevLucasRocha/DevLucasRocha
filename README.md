@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Infrastructure+Analyst;Cloud+Computing+%7C+AWS+%7C+Azure+%7C+OCI;Cultura+DevOps+%7C+Automa%C3%A7%C3%A3o+e+Seguran%C3%A7a;Full+Stack+Robusto+com+Golang+e+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Infrastructure+Analyst;Cloud+Computing+%7C+AWS+%7C+Azure+%7C+OCI;+DevOps+%7C+Automa%C3%A7%C3%A3o+e+Seguran%C3%A7a;Full+Stack" />
 </p>
 
 <p align="center">
