@@ -7,7 +7,7 @@ Meu foco principal é a união entre **desenvolvimento de alta performance** e *
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-hssrs">
