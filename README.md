@@ -1,74 +1,73 @@
-# Lucas Rocha
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=180&section=header&text=Lucas%20Rocha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🚀 Software Engineer | DevOps | Full Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Infrastructure+Analyst;Cloud+Computing+%7C+AWS+%7C+Azure+%7C+OCI;Cultura+DevOps+%7C+Automa%C3%A7%C3%A3o+e+Seguran%C3%A7a;Full+Stack+Robusto+com+Golang+e+React" />
+</p>
 
-Construo **aplicações escaláveis**, **arquiteturas distribuídas** e **infraestruturas robustas na nuvem**.  
-Meu foco principal é a união entre **desenvolvimento de alta performance** e **cultura DevOps**,  
-garantindo segurança, monitoramento e entrega contínua.
+<p align="center">
+  <a href="mailto:lucas_santos239@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-hssrs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Contato
+## 👨‍💻 Sobre mim
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-hssrs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:lucas_santos239@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- 🎯 Engenheiro de Software e Analista de Infraestrutura focado em **Cultura DevOps e Cloud**
+- ☁️ Especialista na construção e provisionamento de ambientes em **AWS, Azure e Oracle Cloud (OCI)**
+- ⚙️ Automação de infraestrutura e servidores com **Terraform, Ansible, Python e Linux**
+- 🚀 Desenvolvimento Full Stack de alta performance utilizando **Golang, React, Node.js e Bancos de Dados**
+- 🛡️ Implementação de monitoramento e segurança com **Wazuh, Zabbix e Uptime Kuma**
+
+---
+
+## 🧰 Stack Principal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,nodejs,ts,js,react,html,css,tailwind,mysql,postgres,mongodb,docker,linux,ubuntu,aws,azure,terraform&perline=9" />
   </a>
 </p>
 
 ---
 
-## 🧠 O que eu faço
+## 📊 Métricas GitHub
 
--   ☁️ **Arquitetura Multi-Cloud:** AWS, Azure e Oracle Cloud (OCI).
--   ⚙️ **Cultura DevOps & CI/CD:** Automação de pipelines e provisionamento.
--   🔐 **Segurança e Monitoramento:** Wazuh (SIEM), Zabbix e Uptime Kuma.
--   🏗️ **Desenvolvimento Full Stack:** APIs robustas e interfaces reativas.
--   📜 **Infraestrutura como Código (IaC):** Automações precisas para gerenciar servidores em larga escala.
--   🖥️ **Administração de Sistemas:** Domínio em Linux (Ubuntu/Debian) e alta disponibilidade (HA).
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevLucasRocha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasRocha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
----
-
-## 🛠️ Stack Tecnológica
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend & Bancos de Dados
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevLucasRocha&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 Status do GitHub
+## 🏆 Certificação em Destaque
 
-[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=DevLucasRocha&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/DevLucasRocha)
+- ✅ **AWS Certified Cloud Practitioner**
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasRocha&layout=compact&theme=tokyonight)](https://github.com/DevLucasRocha)
+---
 
-## 🚀 Filosofia
+## 🔥 Conquistas e Troféus
 
-> *"Infraestrutura sólida não é apenas manter servidores ligados.  
-> É construir bases escaláveis, seguras e automatizadas para que o software gere valor de negócio real."*
+<p align="center">
+  <a href="https://github.com/DevLucasRocha">
+    <img src="https://github-profile-trophy.vercel.app/?username=DevLucasRocha&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  </a>
+</p>
+
+---
+
+## 📈 Atividade Recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevLucasRocha&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer" />
+</p>
