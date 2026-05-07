@@ -69,18 +69,6 @@
 - ✅ **OCI Multicloud Architect Associate**
 - ✅ **OCI Generative AI Professional**
 
----
-
-## 🔥 Conquistas e Troféus
-
-<p align="center">
-  <a href="https://github.com/DevLucasRocha">
-    <img src="https://github-profile-trophy.vercel.app/?username=DevLucasRocha&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-  </a>
-</p>
-
----
-
 ## 📈 Atividade Recente
 
 <p align="center">
