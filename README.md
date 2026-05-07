@@ -3,8 +3,7 @@
 🚀 Software Engineer | DevOps | Full Stack
 
 Construo **aplicações escaláveis**, **arquiteturas distribuídas** e **infraestruturas robustas na nuvem**.  
-Meu foco principal é a união entre **desenvolvimento de alta performance** e **cultura DevOps**, 
-
+Meu foco principal é a união entre **desenvolvimento de alta performance** e **cultura DevOps**,
 garantindo segurança, monitoramento e entrega contínua.
 
 ---
