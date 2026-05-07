@@ -62,11 +62,9 @@ Meu foco principal é a união entre **desenvolvimento de alta performance** e *
 
 ## 📊 Status do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevLucasRocha&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasRocha&layout=compact&theme=tokyonight" />
-</p>
----
+[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=DevLucasRocha&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/DevLucasRocha)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasRocha&layout=compact&theme=tokyonight)](https://github.com/DevLucasRocha)
 
 ## 🚀 Filosofia
 
