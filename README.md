@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Lucas Rocha
 
-🚀 **Software Engineer | Infrastructure Analyst | AWS | Azure | OCI | DevOps | Python | Linux | Ansible & Terraform** 🇧🇷 São Luís, MA - Brasil
+🚀 **Software Engineer | DevOps | Full Stack
 
 Construo **aplicações escaláveis**, **arquiteturas distribuídas** e **infraestruturas robustas na nuvem**.  
 Meu foco principal é a união entre **desenvolvimento de alta performance** e **cultura DevOps**, garantindo segurança, monitoramento e entrega contínua.
@@ -14,7 +14,7 @@ Meu foco principal é a união entre **desenvolvimento de alta performance** e *
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucas_santos239@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" />
   </a>
 </p>
 
