@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Infrastructure+Analyst;Cloud+Computing+%7C+AWS+%7C+Azure+%7C+OCI;+DevOps+%7C+Automa%C3%A7%C3%A3o+e+Seguran%C3%A7a;Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software;DevOps;Cloud+Computing;Full+Stack" />
 </p>
 
 <p align="center">
@@ -15,19 +15,34 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎯 Engenheiro de Software e Analista de Infraestrutura focado em **Cultura DevOps e Cloud**
-- ☁️ Especialista na construção e provisionamento de ambientes em **AWS, Azure e Oracle Cloud (OCI)**
-- ⚙️ Automação de infraestrutura e servidores com **Terraform, Ansible, Python e Linux**
-- 🚀 Desenvolvimento Full Stack de alta performance utilizando **Golang, React, Node.js e Bancos de Dados**
-- 🛡️ Implementação de monitoramento e segurança com **Wazuh, Zabbix e Uptime Kuma**
+- 🎯 Engenheiro de Software focado em **Cloud e DevOps**
+- ☁️ Experiência em provisionamento de ambientes em **AWS, Azure e Oracle Cloud (OCI)**
+- ⚙️ Automação de infraestrutura e servidores com **Terraform, Ansible e Linux**
+- 🚀 Desenvolvimento Full Stack de alta performance utilizando **Golang, React e Node.js**
+- 🛡️ Implementação de monitoramento e visibilidade com **Zabbix e Uptime Kuma**
 
 ---
 
 ## 🧰 Stack Principal
 
-<p align="center">
+### Frontend
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,nodejs,ts,js,react,html,css,tailwind,mysql,postgres,mongodb,docker,linux,ubuntu,aws,azure,terraform&perline=9" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind" />
+  </a>
+</p>
+
+### Backend & Banco de Dados
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,nodejs,mysql,postgres,mongodb" />
+  </a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,linux,ubuntu" />
   </a>
 </p>
 
